@@ -1,0 +1,5 @@
+basicauth:
+  username: mylog
+  password: mylogabc
+logbasepath: /tmp/
+port: 3000
